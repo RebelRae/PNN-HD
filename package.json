@@ -1,0 +1,26 @@
+{
+    "name": "@rebelrae/pnn-hd",
+    "version": "6.11.21",
+    "description": "Persistent Neural Network in Higher Dimensions",
+    "main": "PNN-HD.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RebelRae/PNN-HD.git"
+    },
+    "keywords": [
+        "Persistent",
+        "Persistence",
+        "Neural",
+        "Network",
+        "PNN"
+    ],
+    "author": "Rebel Rae Brown <Rebel@TheDeviantRebel.com>",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/RebelRae/PNN-HD/issues"
+    },
+    "homepage": "https://github.com/RebelRae/PNN-HD#readme"
+}
