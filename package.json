@@ -1,5 +1,5 @@
 {
-    "name": "@rebelrae/pnn-hd",
+    "name": "pnn-hd",
     "version": "6.11.21",
     "description": "Persistent Neural Network in Higher Dimensions",
     "main": "PNN-HD.js",
